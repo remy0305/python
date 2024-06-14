@@ -7,3 +7,4 @@ if response.status_code==200:
     print("編碼:",response.encoding)
 else:
     print("error")
+
